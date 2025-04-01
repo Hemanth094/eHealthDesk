@@ -107,7 +107,7 @@ CREATE TABLE patient (
 
 INSERT INTO patient (pid, pemail, pname, ppassword, paddress, pnic, pdob, ptel) VALUES
 (1, 'patient@ehealthdesk.com', 'Test Patient', '123', 'India', '0000000000', '2024-01-01', '0120000000'),
-(2, 'test2@gmail.com', 'prajwal sri tej', '123', 'India', '0110000000', '2022-06-03', '0700000000');
+(2, 'test2@gmail.com', 'Ramesh', '123', 'India', '0110000000', '2022-06-03', '0700000000');
 
 -- --------------------------------------------------------
 
